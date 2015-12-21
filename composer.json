@@ -1,7 +1,7 @@
 {
   "name": "usama/modulepack",
-  "description": "test",
-  "type": "laravel pack",
+  "description": "this is a testing package do not install it",
+  "type": "laravel",
   "license": "MIT",
   "authors": [
     {
