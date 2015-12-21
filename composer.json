@@ -1,0 +1,14 @@
+{
+    "name": "usama/modulepack",
+    "description": "test",
+    "type": "laravel pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "usama ahmed",
+            "email": "uusa35@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
