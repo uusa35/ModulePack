@@ -9,6 +9,11 @@
             "email": "uusa35@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+      "psr-4" : {
+          "Usama\\ModulePack\\" : "src/"
+      }
+    },
 }
