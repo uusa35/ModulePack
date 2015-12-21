@@ -10,7 +10,6 @@ namespace Usama\ModulePack;
 
 
 use Illuminate\Support\Facades\Config;
-gf
 
 class ModulePack
 {

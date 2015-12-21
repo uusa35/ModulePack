@@ -17,6 +17,8 @@ class ModulePackServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/Config/ModulePack.php' => config_path('ModulePack.php'),
         ], 'config');
+        // include the routes.php
+        include __DIR__.'/Http/routes.php';
 
 
         // for lang files
