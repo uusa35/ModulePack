@@ -1,19 +1,19 @@
 {
-    "name": "usama/modulepack",
-    "description": "test",
-    "type": "laravel pack",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "usama ahmed",
-            "email": "uusa35@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {},
-    "autoload" : {
-      "psr-4" : {
-          "Usama\\ModulePack\\" : "src/"
-      }
-    },
+  "name": "usama/modulepack",
+  "description": "test",
+  "type": "laravel pack",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "usama ahmed",
+      "email": "uusa35@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Usama\\ModulePack\\": "src/"
+    }
+  }
 }
